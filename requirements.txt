@@ -1,11 +1,2 @@
-pyautogen[openai]
-langchain-openai
-langgraph
-langchain
-python-dotenv
-fastapi
-uvicorn[standard]
-pytest
-openai
-pathlib
-typing-extensions
+fastapi==0.16.2
+uvicorn==0.17.2
