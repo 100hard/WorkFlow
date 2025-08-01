@@ -1,0 +1,1 @@
+pip install fastapi==0.16.2
