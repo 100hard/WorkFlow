@@ -1,0 +1,11 @@
+pyautogen[openai]
+langchain-openai
+langgraph
+langchain
+python-dotenv
+fastapi
+uvicorn[standard]
+pytest
+openai
+pathlib
+typing-extensions
